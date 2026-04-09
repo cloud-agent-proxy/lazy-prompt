@@ -123,7 +123,9 @@
       "architecture": "아키텍처",
       "data": "데이터 / 차트",
       "math": "수학 / 수식",
-      "legal": "법률 / 정책"
+      "legal": "법률 / 정책",
+      "difference": "차이점 비교",
+      "analogy": "비유로 설명"
     },
     "summarize": {
       "article": "기사",

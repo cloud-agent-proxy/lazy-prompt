@@ -95,6 +95,30 @@
       "line8": "Comparar con términos estándar/típicos — ¿esto es normal o inusual?",
       "line9": "Listar preguntas específicas que debo hacer a un abogado antes de firmar",
       "line10": "Proporcionar un resumen en lenguaje sencillo que pueda compartir con un colega"
+    },
+    "explainDifference": {
+      "line1": "Explica la diferencia entre {{itemA}} y {{itemB}}",
+      "line2": "Estilo de comparación: {{style}}",
+      "line3": "Comienza con un resumen de una oración sobre la diferencia clave",
+      "line4": "Compáralos lado a lado en 5-7 dimensiones importantes",
+      "line5": "Para cada dimensión, explica cuál es mejor y por qué",
+      "line6": "Da un escenario concreto donde elegirías uno sobre el otro",
+      "line7": "Aclara los conceptos erróneos comunes sobre sus diferencias",
+      "line8": "Explica cuándo pueden usarse juntos o complementarse",
+      "line9": "Crea una tabla de comparación de referencia rápida",
+      "line10": "Termina con una recomendación clara: cuál elegir según las necesidades"
+    },
+    "explainAnalogy": {
+      "line1": "Explica {{topic}} usando analogías de {{domain}}",
+      "line2": "Audiencia objetivo: {{audience}}",
+      "line3": "Comienza con una analogía central poderosa que capture la esencia",
+      "line4": "Extiende la analogía paso a paso para cubrir los componentes clave",
+      "line5": "Muestra dónde la analogía funciona perfectamente y dónde falla",
+      "line6": "Agrega 2-3 analogías alternativas desde diferentes ángulos",
+      "line7": "Usa la analogía para explicar los aspectos más confusos",
+      "line8": "Relaciona cada elemento de la analogía con el concepto real",
+      "line9": "Incluye un resumen memorable de una línea usando la analogía",
+      "line10": "Termina con lo que la analogía no cubre — qué aprender a continuación"
     }
   }
 }

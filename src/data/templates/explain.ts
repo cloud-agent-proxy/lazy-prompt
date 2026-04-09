@@ -501,6 +501,102 @@ const templates: PromptTemplate[] = [
       { "id": "exl9", "textKey": "templates.explainLegal.line9", "type": "fixed" },
       { "id": "exl10", "textKey": "templates.explainLegal.line10", "type": "fixed" }
     ]
+  },
+  {
+    "id": "explainDifference",
+    "sections": [
+      {
+        "id": "edf1",
+        "textKey": "templates.explainDifference.line1",
+        "type": "fixed",
+        "editableSpans": [
+          {
+            "id": "edf1-a",
+            "placeholder": "React",
+            "color": "yellow",
+            "suggestions": ["React", "REST API", "SQL", "Docker", "TypeScript", "Python", "AWS"]
+          },
+          {
+            "id": "edf1-b",
+            "placeholder": "Vue",
+            "color": "cyan",
+            "suggestions": ["Vue", "GraphQL", "NoSQL", "Kubernetes", "JavaScript", "Java", "Azure"]
+          }
+        ]
+      },
+      {
+        "id": "edf2",
+        "textKey": "templates.explainDifference.line2",
+        "type": "fixed",
+        "editableSpans": [
+          {
+            "id": "edf2-style",
+            "placeholder": "balanced comparison",
+            "color": "green",
+            "suggestions": ["balanced comparison", "beginner-friendly", "technical deep-dive", "decision-focused", "quick overview"]
+          }
+        ]
+      },
+      { "id": "edf3", "textKey": "templates.explainDifference.line3", "type": "fixed" },
+      { "id": "edf4", "textKey": "templates.explainDifference.line4", "type": "fixed" },
+      { "id": "edf5", "textKey": "templates.explainDifference.line5", "type": "fixed" },
+      { "id": "edf6", "textKey": "templates.explainDifference.line6", "type": "fixed" },
+      { "id": "edf7", "textKey": "templates.explainDifference.line7", "type": "fixed" },
+      { "id": "edf8", "textKey": "templates.explainDifference.line8", "type": "fixed" },
+      { "id": "edf9", "textKey": "templates.explainDifference.line9", "type": "fixed" },
+      { "id": "edf10", "textKey": "templates.explainDifference.line10", "type": "fixed" }
+    ]
+  },
+  {
+    "id": "explainAnalogy",
+    "sections": [
+      {
+        "id": "exan1",
+        "textKey": "templates.explainAnalogy.line1",
+        "type": "fixed",
+        "editableSpans": [
+          {
+            "id": "exan1-topic",
+            "placeholder": "machine learning",
+            "color": "yellow",
+            "suggestions": ["machine learning", "blockchain", "cloud computing", "API design", "recursion", "database indexing", "encryption"]
+          }
+        ]
+      },
+      {
+        "id": "exan2",
+        "textKey": "templates.explainAnalogy.line2",
+        "type": "fixed",
+        "editableSpans": [
+          {
+            "id": "exan2-domain",
+            "placeholder": "cooking",
+            "color": "cyan",
+            "suggestions": ["cooking", "sports", "everyday life", "building a house", "driving a car", "running a restaurant", "gardening"]
+          }
+        ]
+      },
+      {
+        "id": "exan3",
+        "textKey": "templates.explainAnalogy.line3",
+        "type": "fixed",
+        "editableSpans": [
+          {
+            "id": "exan3-audience",
+            "placeholder": "non-technical person",
+            "color": "green",
+            "suggestions": ["non-technical person", "student", "manager", "child", "career switcher", "visual learner"]
+          }
+        ]
+      },
+      { "id": "exan4", "textKey": "templates.explainAnalogy.line4", "type": "fixed" },
+      { "id": "exan5", "textKey": "templates.explainAnalogy.line5", "type": "fixed" },
+      { "id": "exan6", "textKey": "templates.explainAnalogy.line6", "type": "fixed" },
+      { "id": "exan7", "textKey": "templates.explainAnalogy.line7", "type": "fixed" },
+      { "id": "exan8", "textKey": "templates.explainAnalogy.line8", "type": "fixed" },
+      { "id": "exan9", "textKey": "templates.explainAnalogy.line9", "type": "fixed" },
+      { "id": "exan10", "textKey": "templates.explainAnalogy.line10", "type": "fixed" }
+    ]
   }
 ];
 

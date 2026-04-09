@@ -123,7 +123,9 @@
       "architecture": "架構",
       "data": "數據 / 圖表",
       "math": "數學 / 公式",
-      "legal": "法律 / 政策"
+      "legal": "法律 / 政策",
+      "difference": "對比差異",
+      "analogy": "類比解釋"
     },
     "summarize": {
       "article": "文章",

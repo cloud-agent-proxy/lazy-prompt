@@ -123,7 +123,9 @@
       "architecture": "Arquitectura",
       "data": "Datos / Gráficos",
       "math": "Matemáticas / Fórmulas",
-      "legal": "Legal / Políticas"
+      "legal": "Legal / Políticas",
+      "difference": "Diferencias",
+      "analogy": "Por Analogía"
     },
     "summarize": {
       "article": "Artículo",

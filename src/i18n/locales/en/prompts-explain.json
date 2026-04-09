@@ -107,6 +107,30 @@
       "line8": "Compare to standard/typical terms — is this normal or unusual?",
       "line9": "List specific questions I should ask a lawyer before signing",
       "line10": "Provide a plain-language summary I could share with a colleague"
+    },
+    "explainDifference": {
+      "line1": "Explain the difference between {{itemA}} and {{itemB}}",
+      "line2": "Comparison style: {{style}}",
+      "line3": "Start with a one-sentence summary of the key difference",
+      "line4": "Compare them side by side on 5-7 important dimensions",
+      "line5": "For each dimension, explain which one is stronger and why",
+      "line6": "Give a concrete scenario where you'd choose one over the other",
+      "line7": "Address common misconceptions about their differences",
+      "line8": "Explain when they can be used together or complement each other",
+      "line9": "Create a quick-reference comparison table",
+      "line10": "End with a clear recommendation: which to choose based on different needs"
+    },
+    "explainAnalogy": {
+      "line1": "Explain {{topic}} using analogies from {{domain}}",
+      "line2": "Target audience: {{audience}}",
+      "line3": "Start with one powerful core analogy that captures the essence",
+      "line4": "Extend the analogy step by step to cover the key components",
+      "line5": "Show where the analogy holds perfectly and where it breaks down",
+      "line6": "Add 2-3 alternative analogies from different angles",
+      "line7": "Use the analogy to explain the most confusing aspects",
+      "line8": "Map each analogy element back to the real concept",
+      "line9": "Include a memorable one-liner summary using the analogy",
+      "line10": "End with what the analogy doesn't cover — what to learn next"
     }
   }
 }

@@ -123,7 +123,9 @@
       "architecture": "架构",
       "data": "数据 / 图表",
       "math": "数学 / 公式",
-      "legal": "法律 / 政策"
+      "legal": "法律 / 政策",
+      "difference": "对比差异",
+      "analogy": "类比解释"
     },
     "summarize": {
       "article": "文章",

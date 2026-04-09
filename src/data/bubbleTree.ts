@@ -292,6 +292,8 @@ export const bubbleTree: BubbleNode = {
         { id: 'explain-data', labelKey: 'subcategories.explain.data', type: 'secondary', promptTemplateId: 'explainData' },
         { id: 'explain-math', labelKey: 'subcategories.explain.math', type: 'secondary', promptTemplateId: 'explainMath' },
         { id: 'explain-legal', labelKey: 'subcategories.explain.legal', type: 'secondary', promptTemplateId: 'explainLegal' },
+        { id: 'explain-difference', labelKey: 'subcategories.explain.difference', type: 'secondary', promptTemplateId: 'explainDifference' },
+        { id: 'explain-analogy', labelKey: 'subcategories.explain.analogy', type: 'secondary', promptTemplateId: 'explainAnalogy' },
       ],
     },
   ],

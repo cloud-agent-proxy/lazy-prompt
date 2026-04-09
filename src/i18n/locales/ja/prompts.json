@@ -123,7 +123,9 @@
       "architecture": "アーキテクチャ",
       "data": "データ / グラフ",
       "math": "数学 / 数式",
-      "legal": "法律 / ポリシー"
+      "legal": "法律 / ポリシー",
+      "difference": "違いの比較",
+      "analogy": "たとえで解説"
     },
     "summarize": {
       "article": "記事",
