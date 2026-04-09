@@ -23,10 +23,10 @@
       ]
     },
     "build": {
-      "last_audited": "2026-04-08",
-      "audit_count": 5,
-      "span_audit_count": 3,
-      "last_span_audit": "2026-04-08",
+      "last_audited": "2026-04-09",
+      "audit_count": 6,
+      "span_audit_count": 4,
+      "last_span_audit": "2026-04-09",
       "status": "well-structured",
       "notes": "13 children (5 primary, 8 secondary). All OOO placeholders resolved. All spans have suggestions. Diagnostic returns [].",
       "pending_improvements": [
