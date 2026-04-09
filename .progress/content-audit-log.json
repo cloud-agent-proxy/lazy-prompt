@@ -93,12 +93,12 @@
       ]
     },
     "explain": {
-      "last_audited": "2026-04-08",
-      "audit_count": 5,
-      "span_audit_count": 3,
-      "last_span_audit": "2026-04-08",
+      "last_audited": "2026-04-09",
+      "audit_count": 6,
+      "span_audit_count": 4,
+      "last_span_audit": "2026-04-09",
       "status": "well-structured",
-      "notes": "8 children. All spans have suggestions or are free-form. Diagnostic only returns explainError ee1-error (free-form, skip per policy). No actionable changes.",
+      "notes": "10 children (5 primary, 5 secondary). Added explainDifference and explainAnalogy. All spans have suggestions or are free-form. Diagnostic only returns explainError ee1-error (free-form, skip per policy).",
       "pending_improvements": [
         "explainError ee1-error is free-form paste field — no suggestions needed per policy"
       ]
@@ -259,6 +259,15 @@
       "agent_session": "session_01Rmdsezzk7sXWLRbxRasUMS",
       "changes": [
         "build: Phase A skipped (13 children). Phase B: replaced OOO placeholders and added suggestions in 3 templates (buildDashboard, buildAutomation, buildComponent). All build spans now have suggestions. Diagnostic returns []."
+      ]
+    },
+    {
+      "date": "2026-04-09",
+      "agent_session": "session_01AtoHhhmMZRk5pimM15uh5Q",
+      "changes": [
+        "explain: +2 leaves (difference, analogy) as secondary nodes. 10 children total.",
+        "explain: Phase B — only explainError ee1-error flagged (free-form, skipped per policy).",
+        "Total: 133 -> 135 nodes, 97 -> 99 templates"
       ]
     }
   ]
