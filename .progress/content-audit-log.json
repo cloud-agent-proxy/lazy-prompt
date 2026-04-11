@@ -55,11 +55,11 @@
       ]
     },
     "debug": {
-      "last_audited": "2026-04-09",
-      "audit_count": 6,
-      "span_audit_count": 4,
-      "last_span_audit": "2026-04-09",
-      "status": "well-structured",
+      "last_audited": "2026-04-11",
+      "audit_count": 7,
+      "span_audit_count": 5,
+      "last_span_audit": "2026-04-11",
+      "status": "good",
       "notes": "10 children (5 primary, 5 secondary). All spans have suggestions, diagnostic returns []. No changes needed.",
       "pending_improvements": []
     },
