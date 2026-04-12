@@ -12,10 +12,10 @@
       "pending_improvements": []
     },
     "read": {
-      "last_audited": "2026-04-10",
-      "audit_count": 6,
-      "span_audit_count": 4,
-      "last_span_audit": "2026-04-10",
+      "last_audited": "2026-04-12",
+      "audit_count": 7,
+      "span_audit_count": 5,
+      "last_span_audit": "2026-04-12",
       "status": "well-structured",
       "notes": "11 children (5 primary, 6 secondary). All spans have suggestions or are free-form. Diagnostic only returns readWebpage rw1-url (free-form, skip per policy). No actionable changes.",
       "pending_improvements": [
