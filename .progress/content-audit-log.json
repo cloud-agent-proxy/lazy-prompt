@@ -44,10 +44,10 @@
       "pending_improvements": []
     },
     "summarize": {
-      "last_audited": "2026-04-12",
-      "audit_count": 7,
-      "span_audit_count": 5,
-      "last_span_audit": "2026-04-12",
+      "last_audited": "2026-04-14",
+      "audit_count": 8,
+      "span_audit_count": 6,
+      "last_span_audit": "2026-04-14",
       "status": "well-structured",
       "notes": "10 children (3 primary, 7 secondary). Diagnostic only returns summarizeBook sb1-title (free-form, skip per policy). No actionable changes needed.",
       "pending_improvements": [
