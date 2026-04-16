@@ -93,11 +93,11 @@
       ]
     },
     "explain": {
-      "last_audited": "2026-04-13",
-      "audit_count": 8,
-      "span_audit_count": 6,
-      "last_span_audit": "2026-04-13",
-      "status": "good",
+      "last_audited": "2026-04-16",
+      "audit_count": 9,
+      "span_audit_count": 7,
+      "last_span_audit": "2026-04-16",
+      "status": "well-structured",
       "notes": "10 children (5 primary, 5 secondary). All spans have suggestions or are free-form. Diagnostic only returns explainError ee1-error (free-form, skip per policy). No actionable changes.",
       "pending_improvements": [
         "explainError ee1-error is free-form paste field — no suggestions needed per policy"
