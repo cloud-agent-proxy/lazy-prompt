@@ -3,10 +3,10 @@
   "format_version": 1,
   "categories": {
     "translation": {
-      "last_audited": "2026-04-17",
-      "audit_count": 9,
-      "span_audit_count": 8,
-      "last_span_audit": "2026-04-17",
+      "last_audited": "2026-04-20",
+      "audit_count": 10,
+      "span_audit_count": 9,
+      "last_span_audit": "2026-04-20",
       "status": "well-structured",
       "notes": "5 language pairs x 5 tones = 25 leaves. Deep 3-level nesting. All spans have suggestions, diagnostic returns []. No changes needed.",
       "pending_improvements": []
