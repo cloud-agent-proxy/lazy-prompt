@@ -35,10 +35,10 @@
       ]
     },
     "organize": {
-      "last_audited": "2026-04-17",
-      "audit_count": 9,
-      "span_audit_count": 8,
-      "last_span_audit": "2026-04-17",
+      "last_audited": "2026-04-20",
+      "audit_count": 10,
+      "span_audit_count": 9,
+      "last_span_audit": "2026-04-20",
       "status": "well-structured",
       "notes": "10 children, well-balanced. All spans have suggestions, diagnostic returns []. No changes needed.",
       "pending_improvements": []
