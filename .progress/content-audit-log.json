@@ -82,10 +82,10 @@
       "pending_improvements": []
     },
     "write": {
-      "last_audited": "2026-04-20",
-      "audit_count": 10,
-      "span_audit_count": 8,
-      "last_span_audit": "2026-04-20",
+      "last_audited": "2026-04-22",
+      "audit_count": 11,
+      "span_audit_count": 9,
+      "last_span_audit": "2026-04-22",
       "status": "well-structured",
       "notes": "10 children (5 primary, 5 secondary). All spans now have suggestions. Diagnostic returns [].",
       "pending_improvements": [
