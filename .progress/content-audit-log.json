@@ -23,10 +23,10 @@
       ]
     },
     "build": {
-      "last_audited": "2026-04-21",
-      "audit_count": 11,
-      "span_audit_count": 9,
-      "last_span_audit": "2026-04-21",
+      "last_audited": "2026-04-23",
+      "audit_count": 12,
+      "span_audit_count": 10,
+      "last_span_audit": "2026-04-23",
       "status": "well-structured",
       "notes": "13 children (5 primary, 8 secondary). All OOO placeholders resolved. All spans have suggestions. Diagnostic returns []. No changes needed.",
       "pending_improvements": [
@@ -55,28 +55,28 @@
       ]
     },
     "debug": {
-      "last_audited": "2026-04-21",
-      "audit_count": 11,
-      "span_audit_count": 9,
-      "last_span_audit": "2026-04-21",
+      "last_audited": "2026-04-23",
+      "audit_count": 12,
+      "span_audit_count": 10,
+      "last_span_audit": "2026-04-23",
       "status": "well-structured",
       "notes": "10 children (5 primary, 5 secondary). All spans have suggestions, diagnostic returns []. No changes needed.",
       "pending_improvements": []
     },
     "brainstorm": {
-      "last_audited": "2026-04-21",
-      "audit_count": 11,
-      "span_audit_count": 9,
-      "last_span_audit": "2026-04-21",
+      "last_audited": "2026-04-23",
+      "audit_count": 12,
+      "span_audit_count": 10,
+      "last_span_audit": "2026-04-23",
       "status": "well-structured",
       "notes": "10 children (5 primary, 5 secondary), well-structured. All spans have suggestions. Diagnostic returns []. No changes needed.",
       "pending_improvements": []
     },
     "learn": {
-      "last_audited": "2026-04-21",
-      "audit_count": 11,
-      "span_audit_count": 9,
-      "last_span_audit": "2026-04-21",
+      "last_audited": "2026-04-23",
+      "audit_count": 12,
+      "span_audit_count": 10,
+      "last_span_audit": "2026-04-23",
       "status": "well-structured",
       "notes": "10 children (5 primary, 5 secondary). All spans have suggestions, diagnostic returns []. No changes needed.",
       "pending_improvements": []
@@ -93,10 +93,10 @@
       ]
     },
     "explain": {
-      "last_audited": "2026-04-21",
-      "audit_count": 11,
-      "span_audit_count": 9,
-      "last_span_audit": "2026-04-21",
+      "last_audited": "2026-04-23",
+      "audit_count": 12,
+      "span_audit_count": 10,
+      "last_span_audit": "2026-04-23",
       "status": "well-structured",
       "notes": "10 children (5 primary, 5 secondary). All spans have suggestions or are free-form. Diagnostic only returns explainError ee1-error (free-form, skip per policy). No actionable changes.",
       "pending_improvements": [
