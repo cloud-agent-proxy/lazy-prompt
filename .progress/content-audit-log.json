@@ -93,10 +93,10 @@
       ]
     },
     "explain": {
-      "last_audited": "2026-04-26",
-      "audit_count": 13,
-      "span_audit_count": 11,
-      "last_span_audit": "2026-04-26",
+      "last_audited": "2026-04-28",
+      "audit_count": 14,
+      "span_audit_count": 12,
+      "last_span_audit": "2026-04-28",
       "status": "well-structured",
       "notes": "10 children (5 primary, 5 secondary). All spans have suggestions or are free-form. Diagnostic only returns explainError ee1-error (free-form, skip per policy). No actionable changes.",
       "pending_improvements": [
